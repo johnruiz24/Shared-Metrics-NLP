@@ -1,4 +1,4 @@
-# shared-metrics-NLP
+# Shared-Metrics-NLP
 
 This project was taken as part of the Text Mining course at NOVA IMS class of 2020-2021, the description was as follow:
 

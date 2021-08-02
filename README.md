@@ -1,6 +1,6 @@
 # shared-metrics-NLP
 
-This project was taken as part of the Text Mining course at NOVA IMS, the description was as following:
+This project was taken as part of the Text Mining course at NOVA IMS class of 2020-2021, the description was as follow:
 
 The conference on Statistical Machine Translation (WMT) is a prestigious conference in the field of NLP and Machine Translations that builds on a series of annual workshops and conferences in Machine Translation, going back to 2006. This prestigious conference organizes a series of competitions in different aspects of machine translation. One of those competitions is the Metrics shared task whose goal is to create a metric that correlates with human assessments of quality.
 
